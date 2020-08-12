@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Coffee Snob
 - 🔭 I’m currently working at [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
-- 🌱 I’m currently learning anything and everything 😭
+- 🌱 I’m currently learning GraphQL, TypeScript, and Cloud Development
 - 🤝 My goal is to contribute to more Open Source projects
 - ⚡ Fun fact: I love love love coffee
 
@@ -16,10 +16,18 @@
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=bryanpan342&layout=compact)](https://github.com/bryanpan342/github-readme-stats)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code> 
+<code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 
-<br />
-<br />
+
+NOTE: Top languages does not indicate my skill level, it's a github metric of which languages O have the most code on github.
+
+![Top Langs](https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=bryanpan342&layout=compact)
+
 
 ---
 
