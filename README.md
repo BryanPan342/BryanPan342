@@ -4,7 +4,7 @@
 - 🔭  I’m currently working at [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
 - 🌱  I’m currently learning GraphQL, TypeScript, and Cloud Development
 - 🤝  My goal is to contribute to more Open Source projects
-- ⚡  Fun fact: I love love love coffee
+- ☕️  Fun fact: I love love love coffee
 
 ### Connect with me:
 
