@@ -24,7 +24,7 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 
 
-NOTE: Top languages does not indicate my skill level, it's a github metric of which languages O have the most code on github.
+NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I code the most in.
 
 ![Top Langs](https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=bryanpan342&layout=compact)
 
