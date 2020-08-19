@@ -26,8 +26,12 @@
 
 NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I code the most in.
 
-<img align="center" alt="BryanPan342's Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=bryanpan342&show_icons=true&hide_border=true&count_private=true" />
-<img align="center" alt="BryanPan342's Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=bryanpan342&layout=compact" />
+<a target=_blank href="https://github.com/bryanpan342">
+  <img align="center" alt="BryanPan342's Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=bryanpan342&show_icons=true&hide_border=true&count_private=true"/>
+</a>
+<a target=_blank href="https://github.com/bryanpan342">
+  <img align="center" alt="BryanPan342's Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=bryanpan342&layout=compact"/>
+</a>
 
 [website]: https://bryanpan.co/
 [instagram]: https://instagram.com/bryanthesnob
