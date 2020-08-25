@@ -1,7 +1,7 @@
 ### Hi, I'm Bryan 👋
 
 ## I'm a Student, Developer, and Coffee Snob
-- 🔭  I’m currently working at [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
+- 🔭  I’m currently working on [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
 - 🌱  I’m currently learning GraphQL, TypeScript, and Cloud Development
 - 🤝  My goal is to contribute to more Open Source projects
 - ☕️  Fun fact: I love love love coffee
