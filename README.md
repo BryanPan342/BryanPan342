@@ -2,7 +2,8 @@
 
 ## I'm a Student, Developer, and Coffee Snob
 - 🔭  I’m currently working on [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
-- 🌱  I’m currently learning GraphQL, TypeScript, and Cloud Development
+- 🌱  I’m currently learning Python and Machine Learning
+- 🔨  I'm currently building projects with GraphQL, TypeScript, and React
 - 🤝  My goal is to contribute to more Open Source projects
 - ☕️  Fun fact: I love love love coffee
 
