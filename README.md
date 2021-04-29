@@ -4,7 +4,7 @@
 - 🔭  I’m currently working on [AWS Cloud Development Kit](https://github.com/aws/aws-cdk)
 - 🌱  I’m currently learning three.js and design
 - 🔨  I'm currently building projects with GraphQL, TypeScript, Next.js, and Three.js
-- 🤝  My goal is to contribute to more Open Source projects
+- 🤝  My goal is to contribute to more Open Source projects and learn web design
 - ☕️  Fun fact: I love love love coffee
 
 ### Connect with me:
